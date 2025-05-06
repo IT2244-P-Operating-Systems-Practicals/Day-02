@@ -3,6 +3,7 @@ Calculate Age utput
 ![image](https://github.com/user-attachments/assets/215faa54-0080-4eed-918b-ed7b7d4a5e6d)
 
 1.To retrieve the 1st and 3rd column of a CSV file
+
 2.To retrieve the 1st column of a CSV file
 
 
